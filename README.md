@@ -1,4 +1,4 @@
-# Gaussian Process from zero to hero
+# Gaussian Processes from zero to hero
 
 
 The 7-step plan: Gaussian Process from zero to hero. There are steps for
